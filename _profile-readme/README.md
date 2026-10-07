@@ -8,11 +8,11 @@
 
 **What I publish here**
 
-A new product artifact every week (frameworks, PRDs, teardowns, threat models) in my [Security Product Portfolio](https://github.com/YOUR-USERNAME/security-product-portfolio).
+A new product artifact every week (frameworks, PRDs, teardowns, threat models) in my [Security Product Portfolio](https://github.com/skp-gh/security-portfolio-aizyber).
 
 **Start with**
-- [The Agentic Identity Maturity Model](https://github.com/YOUR-USERNAME/security-product-portfolio/blob/main/frameworks/agentic-identity-maturity-model.md)
-- [The 90-Day AI Security Playbook](https://github.com/YOUR-USERNAME/security-product-portfolio/blob/main/playbooks/the-90-day-ai-security-playbook.md)
-- [AI Acceptable Use Standard (template)](https://github.com/YOUR-USERNAME/security-product-portfolio/blob/main/policies/ai-acceptable-use-policy-template.md)
+- [The Agentic Identity Maturity Model](https://github.com/skp-gh/security-portfolio-aizyber/blob/main/frameworks/agentic-identity-maturity-model.md)
+- [The 90-Day AI Security Playbook](https://github.com/skp-gh/security-portfolio-aizyber/blob/main/playbooks/the-90-day-ai-security-playbook.md)
+- [AI Acceptable Use Standard (template)](https://github.com/skp-gh/security-portfolio-aizyber/blob/main/policies/ai-acceptable-use-policy-template.md)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)

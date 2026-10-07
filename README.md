@@ -4,7 +4,7 @@
 
 15+ years across IAM, CIAM, PAM, IGA, XDR, and zero-trust architecture, with hands-on depth in Okta, CyberArk, SailPoint, and Exabeam. This repo is where I publish the product thinking behind that work: frameworks, PRDs, teardowns, threat models, and metrics designs. A new artifact ships every week, alongside a LinkedIn post.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Agentic Identity Notes series](#agentic-identity-notes)
+[Website](https://skp-gh.github.io/security-portfolio-aizyber) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Agentic Identity Notes series](#agentic-identity-notes)
 
 ---
 

@@ -3,7 +3,7 @@
 ## 1. Create the two repos on GitHub
 
 1. Sign in at github.com and click **New repository**.
-2. Name it `security-product-portfolio`, set it to **Public**, and do **not** add a README (this folder already has one).
+2. Name it `security-portfolio-aizyber`, set it to **Public**, and do **not** add a README (this folder already has one).
 3. Create a second public repo named exactly your GitHub username (for example `santosh-xyz`). GitHub shows its README at the top of your profile.
 
 ## 2. Push this folder
@@ -11,7 +11,7 @@
 In Terminal, from this folder:
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/security-product-portfolio.git
+git remote add origin https://github.com/skp-gh/security-portfolio-aizyber.git
 git branch -M main
 git push -u origin main
 ```
@@ -20,22 +20,22 @@ git push -u origin main
 
 ## 3. Set up the profile README
 
-Copy `_profile-readme/README.md` into the username repo you created in step 1 (you can paste it directly in the GitHub web editor). Replace `YOUR-USERNAME` and `YOUR-HANDLE`.
+Copy `_profile-readme/README.md` into the username repo you created in step 1 (you can paste it directly in the GitHub web editor). Replace `YOUR-HANDLE` with your LinkedIn handle.
 
 ## 4. Turn on GitHub Pages
 
-In `security-product-portfolio`: **Settings > Pages > Source: Deploy from a branch > main / (root) > Save.**
-After a minute your site is live at `https://YOUR-USERNAME.github.io/security-product-portfolio/`. That is your `PORTFOLIO_URL` for LinkedIn posts. Artifact links work without the `.md` extension.
+In `security-portfolio-aizyber`: **Settings > Pages > Source: Deploy from a branch > main / (root) > Save.**
+After a minute your site is live at `https://skp-gh.github.io/security-portfolio-aizyber/`. That is your `PORTFOLIO_URL` for LinkedIn posts. Artifact links work without the `.md` extension.
 
 ## 5. Find and replace placeholders
 
-- `YOUR-USERNAME`: your GitHub username
+- `skp-gh`: your GitHub username
 - `YOUR-HANDLE`: your LinkedIn profile handle
 - `[PORTFOLIO_URL]`: in each `linkedin/week-NN.md` file
 
 ## 6. Polish your profiles
 
-- GitHub: **pin** `security-product-portfolio` on your profile.
+- GitHub: **pin** `security-portfolio-aizyber` on your profile.
 - LinkedIn: add the portfolio URL to your **Featured** section and to the website field in your contact info.
 
 ## Weekly routine

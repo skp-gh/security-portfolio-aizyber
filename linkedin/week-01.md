@@ -13,7 +13,7 @@ Most enterprises can't answer one simple question:
 
 How many AI agents are running in your environment right now, and who owns each one?
 
-I've spent 15+ years in identity (IAM, PAM, IGA, CIAM). AI agents are the first identity class that breaks every model we built.
+AI agents are the first identity class that breaks every model we built.
 
 They act like users.
 They authenticate like services.
@@ -39,7 +39,7 @@ Where would you honestly place your organization today?
 
 ## First comment
 
-Full framework (free to use and adapt): [PORTFOLIO_URL]/frameworks/agentic-identity-maturity-model
+Full framework (free to use and adapt): https://skp-gh.github.io/security-portfolio-aizyber/frameworks/agentic-identity-maturity-model
 
 This is #1 in a weekly series, Agentic Identity Notes. Follow along if you are working on this problem.
 

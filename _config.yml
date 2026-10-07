@@ -1,0 +1,7 @@
+title: Security Product Portfolio
+description: Frameworks, PRDs, teardowns, and threat models on identity governance for the enterprise and for AI agents.
+theme: jekyll-theme-minimal
+exclude:
+  - _profile-readme
+  - templates
+  - SETUP.md

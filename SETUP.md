@@ -20,7 +20,7 @@ git push -u origin main
 
 ## 3. Set up the profile README
 
-Copy `_profile-readme/README.md` into the username repo you created in step 1 (you can paste it directly in the GitHub web editor). Replace `YOUR-HANDLE` with your LinkedIn handle.
+Copy `_profile-readme/README.md` into the username repo you created in step 1 (you can paste it directly in the GitHub web editor).
 
 ## 4. Turn on GitHub Pages
 
@@ -30,7 +30,6 @@ After a minute your site is live at `https://skp-gh.github.io/security-portfolio
 ## 5. Find and replace placeholders
 
 - `skp-gh`: your GitHub username
-- `YOUR-HANDLE`: your LinkedIn profile handle
 - `[PORTFOLIO_URL]`: in each `linkedin/week-NN.md` file
 
 ## 6. Polish your profiles

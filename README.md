@@ -22,7 +22,7 @@ If you only read three things:
 
 | # | Date | Type | Title | LinkedIn |
 |---|---|---|---|---|
-| 1 | 2026-10-13 | Framework | [The Agentic Identity Maturity Model](frameworks/agentic-identity-maturity-model.md) | [post](linkedin/week-01.md) |
+| 1 | 2026-10-13 | Framework | [The Agentic Identity Maturity Model](frameworks/agentic-identity-maturity-model.md) | [post](linkedin/week-01.md) · [article](linkedin/week-01-article.md) |
 | | 2026-05 | Essay | [The Identity and Data Security Convergence: Governing AI at Enterprise Scale](essays/ai-governance-identity-data-security.md) | |
 | | 2026-05 | Template | [AI Acceptable Use Standard](policies/ai-acceptable-use-policy-template.md) | |
 | | 2026-05 | Playbook | [The 90-Day AI Security Playbook](playbooks/the-90-day-ai-security-playbook.md) | |

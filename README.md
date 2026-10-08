@@ -2,7 +2,7 @@
 
 **Santosh** · Security product leader · Identity governance for the enterprise and for AI agents
 
-15+ years across IAM, CIAM, PAM, IGA, XDR, and zero-trust architecture, with hands-on depth in Okta, CyberArk, SailPoint, and Exabeam. This repo is where I publish the product thinking behind that work: frameworks, PRDs, teardowns, threat models, and metrics designs. A new artifact ships every week, alongside a LinkedIn post.
+15+ years across IAM, CIAM, PAM, IGA, XDR, and zero-trust architecture, with hands-on depth in Okta, CyberArk, SailPoint, and Exabeam. This repo is where I publish the product thinking behind that work: frameworks, PRDs, teardowns, threat models, and metrics designs. A new artifact ships every week, alongside a LinkedIn article.
 
 [Website](https://skp-gh.github.io/security-portfolio-aizyber) · [LinkedIn](https://www.linkedin.com/in/skprusty) · [Agentic Identity Notes series](#agentic-identity-notes)
 
@@ -20,9 +20,9 @@ If you only read three things:
 
 ## All artifacts (newest first)
 
-| # | Date | Type | Title | LinkedIn |
+| # | Date | Type | Title | LinkedIn article |
 |---|---|---|---|---|
-| 1 | 2026-10-13 | Framework | [The Agentic Identity Maturity Model](frameworks/agentic-identity-maturity-model.md) | [post](linkedin/week-01.md) · [article](linkedin/week-01-article.md) |
+| 1 | 2026-10-13 | Framework | [The Agentic Identity Maturity Model](frameworks/agentic-identity-maturity-model.md) | [article](linkedin/week-01-article.md) |
 | | 2026-05 | Essay | [The Identity and Data Security Convergence: Governing AI at Enterprise Scale](essays/ai-governance-identity-data-security.md) | |
 | | 2026-05 | Template | [AI Acceptable Use Standard](policies/ai-acceptable-use-policy-template.md) | |
 | | 2026-05 | Playbook | [The 90-Day AI Security Playbook](playbooks/the-90-day-ai-security-playbook.md) | |

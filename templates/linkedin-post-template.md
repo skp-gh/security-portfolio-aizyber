@@ -1,42 +1,34 @@
 ---
 week: N
+type: Article share text ("Tell your network what your article is about")
 publish_on: Tue YYYY-MM-DD, 8:30am PT
+article: linkedin/week-NN-article.md
 artifact: folder/file.md
 status: draft
 ---
 
-# LinkedIn post, Week N
+# Share text, Week N
 
-## Post body
+Paste this into the "Tell your network what your article is about" box when you publish the article. LinkedIn attaches the article card automatically, so no link is needed here.
 
-[HOOK: 1 to 2 lines. A contrarian claim, a hard question, or a specific number. This is all most people see before "see more".]
+## Share text
 
-[PROBLEM: 2 to 3 short lines on why CISOs should care now.]
+[HOOK: 1 to 2 lines. A hard question or a contrarian claim. This is all most people see before "see more".]
 
-[INSIGHT: 3 to 6 short lines or a numbered list. The core of the artifact.]
+[WHY NOW: 2 to 3 short lines in your own voice.]
 
-[SO WHAT: one line on the action or takeaway.]
+[THE IDEA: the core of the article in plain language, 2 to 4 short lines.]
 
-The full [framework / PRD / teardown] is linked in the first comment.
+[WHAT'S INSIDE: one line on what the reader gets from the article.]
 
-[QUESTION to drive comments]
+[SERIES LINE + a specific question to drive comments]
 
 #Hashtag1 #Hashtag2 #Hashtag3 #Hashtag4
 
-## First comment
-
-Full [type]: [PORTFOLIO_URL]/path/to/artifact
-
-This is #N in my weekly series, Agentic Identity Notes.
-
-## Visual (optional)
-
-[Describe the one image or carousel that would carry the idea.]
-
 ## Results (fill in after 7 days)
 
-| Impressions | Reactions | Comments | Reposts | Profile views | Link clicks |
+| Impressions | Reactions | Comments | Reposts | Article views | Profile views |
 |---|---|---|---|---|---|
 | | | | | | |
 
-<!-- Rules: under ~1,300 characters; short lines; no em dashes; link goes in first comment. -->
+<!-- Rules: 700 to 1,200 characters; short paragraphs; first person; no em dashes or en dashes; no links (the article card is attached automatically). -->

@@ -1,7 +1,7 @@
 ---
 week: 1
 type: LinkedIn article
-publish_on: Thu 2026-10-15, 8:30am PT
+publish_on: Tue 2026-10-13, 8:30am PT
 companion_artifact: frameworks/agentic-identity-maturity-model.md
 status: draft
 ---
@@ -91,4 +91,4 @@ I'm curious where you'd honestly put your organization on this scale, and which 
 
 ---
 
-*Hashtags for the share post:* #IdentitySecurity #AgenticAI #CISO #AIGovernance #ZeroTrust
+*Share text for the publish dialog: see linkedin/week-01.md*

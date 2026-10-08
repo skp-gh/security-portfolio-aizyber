@@ -41,7 +41,7 @@ After a minute your site is live at `https://skp-gh.github.io/security-portfolio
 
 | When | What |
 |---|---|
-| Thursday | Weekly drafting task writes the next artifact and post as drafts. Review and edit. |
-| Friday to Monday | Finalize, commit, and push. |
-| Tuesday or Wednesday, 8 to 10am PT | Publish the LinkedIn post. Put the link in the first comment. |
-| A week later | Fill in the results table in that week's `linkedin/` file. |
+| Thursday | Weekly drafting task writes the next artifact, the LinkedIn article, and its share text as drafts. Review and edit. |
+| Friday to Monday | Finalize, commit, and push. Load the article into LinkedIn as a draft and add the cover image. |
+| Tuesday, 8 to 10am PT | Publish the article. Paste the share text into "Tell your network what your article is about". |
+| A week later | Fill in the results table in that week's `linkedin/week-NN.md` file. |

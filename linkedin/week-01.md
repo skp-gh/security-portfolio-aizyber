@@ -1,54 +1,36 @@
 ---
 week: 1
+type: Article share text ("Tell your network what your article is about")
 publish_on: Tue 2026-10-13, 8:30am PT
+article: linkedin/week-01-article.md
 artifact: frameworks/agentic-identity-maturity-model.md
 status: draft
 ---
 
-# LinkedIn post, Week 1
+# Share text, Week 1
 
-## Post body
+Paste this into the "Tell your network what your article is about" box when you publish the article. LinkedIn attaches the article card automatically, so no link is needed here. The GitHub framework link lives inside the article.
 
-Most enterprises can't answer one simple question:
+## Share text
 
-How many AI agents are running in your environment right now, and who owns each one?
+How many AI agents are running in your environment right now? And who owns each one?
 
-AI agents are the first identity class that breaks every model we built.
+I've been asking security leaders that question lately, and the pause that follows says a lot.
 
-They act like users.
-They authenticate like services.
-They change behavior like neither.
+AI agents are the first identity class that breaks the models we spent two decades building. They act like users. They authenticate like services. And they change behavior like neither.
 
-So here is a maturity model for governing them. Five levels:
+So I wrote up a simple five-level maturity model for governing them, from "we can't count them" to "every action is authorized in real time."
 
-0. Invisible: agents exist, security can't count them
-1. Inventoried: listed, but running on human creds or long-lived keys
-2. Governed: own identity, named owner, scoped and expiring credentials
-3. Least-privilege by default: task-scoped access, explicit delegation, behavior baselines
-4. Continuously authorized: every tool call evaluated against policy in real time
+My honest take: most organizations are at Level 0 or 1, and the move that matters most is the boring one. Give every agent an owner, its own identity, and credentials that expire.
 
-Most organizations are at Level 0 or 1.
+Inside the article: a scenario you'll probably recognize, the five levels in plain language, and four questions worth asking your team this week.
 
-The biggest risk reduction per dollar? Getting from 1 to 2. Every agent gets an owner, its own identity, and credentials that expire. That's a 90-day project, not a three-year program.
+This kicks off Agentic Identity Notes, a weekly series on securing AI agents as identities. Where would you put your organization today?
 
-The full framework, with an eight-capability scoring matrix, a self-assessment, a 90-day plan, and board metrics, is linked in the first comment.
-
-Where would you honestly place your organization today?
-
-#IdentitySecurity #AgenticAI #CISO #ZeroTrust #AIGovernance
-
-## First comment
-
-Full framework (free to use and adapt): https://skp-gh.github.io/security-portfolio-aizyber/frameworks/agentic-identity-maturity-model
-
-This is #1 in a weekly series, Agentic Identity Notes. Follow along if you are working on this problem.
-
-## Visual (optional)
-
-A simple 5-step staircase graphic, levels 0 to 4, with one line under each. Single-image posts and document (PDF carousel) posts both tend to outperform text-only.
+#IdentitySecurity #AgenticAI #CISO #AIGovernance #ZeroTrust
 
 ## Results (fill in after 7 days)
 
-| Impressions | Reactions | Comments | Reposts | Profile views | Link clicks |
+| Impressions | Reactions | Comments | Reposts | Article views | Profile views |
 |---|---|---|---|---|---|
 | | | | | | |

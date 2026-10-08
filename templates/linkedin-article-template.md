@@ -1,7 +1,7 @@
 ---
 week: N
 type: LinkedIn article
-publish_on: Thu YYYY-MM-DD, 8:30am PT
+publish_on: Tue YYYY-MM-DD, 8:30am PT
 companion_artifact: folder/file.md
 status: draft
 ---

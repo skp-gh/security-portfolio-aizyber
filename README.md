@@ -22,6 +22,9 @@ If you only read three things:
 
 | # | Date | Type | Title | LinkedIn article |
 |---|---|---|---|---|
+| 8 | 2026-12-15 | Framework | [On-Behalf-Of Done Right: A Delegation Decision Tree for Agent Access](frameworks/on-behalf-of-delegation-decision-tree.md) | [article](linkedin/week-08-article.md) |
+| 7 | 2026-12-08 | Threat model | [MCP Servers and Tool Access: Where the Trust Boundaries Actually Are](threat-models/mcp-servers-tool-access-trust-boundaries.md) | [article](linkedin/week-07-article.md) |
+| 5 | 2026-11-24 | Metrics | [Ten KPIs for an Agent Identity Program That a CFO and Board Will Understand](metrics/ten-kpis-for-an-agent-identity-program.md) | [article](linkedin/week-05-article.md) |
 | 4 | 2026-11-17 | PRD | [Agent Credential Lifecycle Management: Issue, Scope, Rotate, Revoke](prds/agent-credential-lifecycle-management.md) | [article](linkedin/week-04-article.md) |
 | 3 | 2026-11-10 | Teardown | [How the Major Identity Vendors Are Approaching Non-Human and Agent Identity](teardowns/how-identity-vendors-approach-agent-identity.md) | [article](linkedin/week-03-article.md) |
 | 2 | 2026-11-03 | Threat model | [An AI Agent with Delegated OAuth Access to SaaS Apps: STRIDE Walkthrough](threat-models/ai-agent-delegated-oauth-stride.md) | [article](linkedin/week-02-article.md) |

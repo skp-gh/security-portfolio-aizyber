@@ -1,0 +1,71 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0}
+  body{width:1920px;height:1080px;overflow:hidden;font-family:'Inter',sans-serif;
+    background:radial-gradient(1200px 800px at 78% 45%, #1f3550 0%, rgba(31,53,80,0) 70%),
+               linear-gradient(135deg,#0f1419 0%,#16232f 55%,#1a2b3d 100%);position:relative;color:#fff}
+  .bar{position:absolute;left:0;top:0;width:14px;height:1080px;background:linear-gradient(#fbbf24,#f59e0b)}
+  .grid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.07) 1.5px,transparent 1.5px);background-size:40px 40px;
+        -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 55%,#000 100%)}
+  .left{position:absolute;left:150px;top:0;height:1080px;width:900px;display:flex;flex-direction:column;justify-content:center}
+  .kicker{font-family:'Inter Display','Inter';font-weight:700;font-size:28px;letter-spacing:5px;color:#fbbf24;text-transform:uppercase;margin-bottom:44px;display:flex;align-items:center;gap:18px}
+  .kicker .num{border:2px solid #fbbf24;border-radius:999px;padding:4px 16px;letter-spacing:1px}
+  h1{font-family:'Inter Display','Inter';font-weight:800;font-size:112px;line-height:1.0;letter-spacing:-3.5px;margin:0}
+  h2{font-family:'Inter Display','Inter';font-weight:700;font-size:64px;line-height:1.1;letter-spacing:-1.5px;margin:34px 0 0;color:#fbbf24}
+  .byline{position:absolute;left:150px;bottom:92px;font-size:26px;color:rgba(255,255,255,.72);font-weight:500;letter-spacing:.3px}
+  .byline b{color:#fff;font-weight:700}
+  svg{position:absolute;right:70px;top:150px}
+</style></head>
+<body>
+<div class="grid"></div>
+<div class="bar"></div>
+
+<div class="left">
+  <div class="kicker">Agentic Identity Notes <span class="num">#8</span></div>
+  <h1>A slice,<br>not a copy.</h1>
+  <h2>On-behalf-of done right:<br>a delegation decision tree.</h2>
+</div>
+
+<div class="byline"><b>Santosh Prusty</b>&nbsp;&nbsp;·&nbsp;&nbsp;Identity governance for the enterprise and for AI agents</div>
+
+<svg width="820" height="780" viewBox="0 0 820 780" xmlns="http://www.w3.org/2000/svg" font-family="Inter">
+  <defs>
+    <linearGradient id="amb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+    <g id="bot">
+      <rect x="-26" y="-20" width="52" height="40" rx="12" fill="none" stroke="currentColor" stroke-width="4"/>
+      <circle cx="-10" cy="0" r="5" fill="currentColor"/><circle cx="10" cy="0" r="5" fill="currentColor"/>
+      <line x1="0" y1="-20" x2="0" y2="-31" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="0" cy="-34" r="5" fill="currentColor"/>
+    </g>
+    <g id="person">
+      <circle cx="0" cy="-6" r="7" fill="#0f1419"/>
+      <path d="M-12 12 a12 11 0 0 1 24 0 z" fill="#0f1419"/>
+    </g>
+  </defs>
+  <g stroke="rgba(148,163,184,.75)" stroke-width="3" fill="none">
+    <path d="M260 104 L150 104 L150 214"/>
+    <path d="M560 104 L600 104 L600 214"/>
+    <path d="M600 316 L600 350 L460 350 L460 404"/>
+    <path d="M600 350 L710 350 L710 404"/>
+    <path d="M150 306 L150 640 L250 640"/>
+    <path d="M460 496 L460 590"/>
+    <path d="M710 496 L710 560 L560 560 L560 590"/>
+  </g>
+  <g text-anchor="middle">
+    <g transform="translate(410,104)"><rect x="-150" y="-34" width="300" height="68" rx="34" fill="#2a2a22" stroke="url(#amb)" stroke-width="3"/><text y="8" font-size="23" font-weight="700" fill="#fbbf24">Is a person asking?</text></g>
+    <text x="205" y="92" font-size="17" font-weight="700" fill="#cbd5e1">no</text><text x="585" y="92" font-size="17" font-weight="700" fill="#cbd5e1">yes</text>
+    <g transform="translate(150,260)"><rect x="-125.0" y="-46" width="250" height="92" rx="16" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+  <text y="-4" font-size="25" font-weight="700" fill="#fff">Agent's own</text><text y="24" font-size="17" font-weight="600" fill="#94a3b8">identity, scoped</text></g>
+    <g transform="translate(600,260)"><rect x="-150" y="-34" width="300" height="68" rx="34" fill="#2a2a22" stroke="url(#amb)" stroke-width="3"/><text y="8" font-size="23" font-weight="700" fill="#fbbf24">Inside your domain?</text></g>
+    <text x="515" y="340" font-size="17" font-weight="700" fill="#cbd5e1">yes</text><text x="662" y="340" font-size="17" font-weight="700" fill="#cbd5e1">no</text>
+    <g transform="translate(460,450)"><rect x="-115.0" y="-46" width="230" height="92" rx="16" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+  <text y="-4" font-size="25" font-weight="700" fill="#fff">Token exchange</text><text y="24" font-size="17" font-weight="600" fill="#94a3b8">person + agent</text></g>
+    <g transform="translate(710,450)"><rect x="-110.0" y="-46" width="220" height="92" rx="16" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+  <text y="-4" font-size="25" font-weight="700" fill="#fff">Enterprise grant</text><text y="24" font-size="17" font-weight="600" fill="#94a3b8">or gated consent</text></g>
+    <g transform="translate(470,640)"><rect x="-210.0" y="-46" width="420" height="92" rx="16" fill="#2a2a22" stroke="url(#amb)" stroke-width="4"/>
+  <text y="-4" font-size="25" font-weight="700" fill="#fbbf24">High risk? Human step-up</text><text y="24" font-size="17" font-weight="600" fill="#fde68a">approve this action only</text></g>
+  </g>
+  <text x="410" y="760" text-anchor="middle" font-size="19" font-weight="700" fill="#fbbf24" letter-spacing="2">EVERY HOP DOWNSCOPES. THE PERSON STAYS VISIBLE.</text>
+</svg>
+</body></html>

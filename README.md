@@ -22,6 +22,9 @@ If you only read three things:
 
 | # | Date | Type | Title | LinkedIn article |
 |---|---|---|---|---|
+| 4 | 2026-11-17 | PRD | [Agent Credential Lifecycle Management: Issue, Scope, Rotate, Revoke](prds/agent-credential-lifecycle-management.md) | [article](linkedin/week-04-article.md) |
+| 3 | 2026-11-10 | Teardown | [How the Major Identity Vendors Are Approaching Non-Human and Agent Identity](teardowns/how-identity-vendors-approach-agent-identity.md) | [article](linkedin/week-03-article.md) |
+| 2 | 2026-11-03 | Threat model | [An AI Agent with Delegated OAuth Access to SaaS Apps: STRIDE Walkthrough](threat-models/ai-agent-delegated-oauth-stride.md) | [article](linkedin/week-02-article.md) |
 | 1 | 2026-10-13 | Framework | [The Agentic Identity Maturity Model](frameworks/agentic-identity-maturity-model.md) | [article](linkedin/week-01-article.md) |
 | | 2026-05 | Essay | [The Identity and Data Security Convergence: Governing AI at Enterprise Scale](essays/ai-governance-identity-data-security.md) | |
 | | 2026-05 | Template | [AI Acceptable Use Standard](policies/ai-acceptable-use-policy-template.md) | |

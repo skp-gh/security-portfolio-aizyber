@@ -6,9 +6,9 @@ Mark a line `[x]` when the artifact is committed. The weekly drafting task picks
 ## Agentic Identity Notes
 
 - [x] 1. **Framework:** The Agentic Identity Maturity Model (`frameworks/`)
-- [ ] 2. **Threat model:** An AI agent with delegated OAuth access to SaaS apps, STRIDE walkthrough (`threat-models/`)
-- [ ] 3. **Teardown:** How the major identity vendors are approaching non-human and agent identity (`teardowns/`)
-- [ ] 4. **PRD:** Agent credential lifecycle management: issue, scope, rotate, revoke (`prds/`)
+- [x] 2. **Threat model:** An AI agent with delegated OAuth access to SaaS apps, STRIDE walkthrough (`threat-models/`)
+- [x] 3. **Teardown:** How the major identity vendors are approaching non-human and agent identity (`teardowns/`)
+- [x] 4. **PRD:** Agent credential lifecycle management: issue, scope, rotate, revoke (`prds/`)
 - [ ] 5. **Metrics:** Ten KPIs for an agent identity program that a CFO and board will understand (`metrics/`)
 - [ ] 6. **Roundup:** Weeks 1 to 5, what I learned from the comments (`essays/`)
 - [ ] 7. **Threat model:** MCP servers and tool access: where the trust boundaries actually are (`threat-models/`)

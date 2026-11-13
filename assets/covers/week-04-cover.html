@@ -1,0 +1,82 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0}
+  body{width:1920px;height:1080px;overflow:hidden;font-family:'Inter',sans-serif;
+    background:radial-gradient(1200px 800px at 78% 45%, #1f3550 0%, rgba(31,53,80,0) 70%),
+               linear-gradient(135deg,#0f1419 0%,#16232f 55%,#1a2b3d 100%);position:relative;color:#fff}
+  .bar{position:absolute;left:0;top:0;width:14px;height:1080px;background:linear-gradient(#fbbf24,#f59e0b)}
+  .grid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.07) 1.5px,transparent 1.5px);background-size:40px 40px;
+        -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 55%,#000 100%)}
+  .left{position:absolute;left:150px;top:0;height:1080px;width:900px;display:flex;flex-direction:column;justify-content:center}
+  .kicker{font-family:'Inter Display','Inter';font-weight:700;font-size:28px;letter-spacing:5px;color:#fbbf24;text-transform:uppercase;margin-bottom:44px;display:flex;align-items:center;gap:18px}
+  .kicker .num{border:2px solid #fbbf24;border-radius:999px;padding:4px 16px;letter-spacing:1px}
+  h1{font-family:'Inter Display','Inter';font-weight:800;font-size:112px;line-height:1.0;letter-spacing:-3.5px;margin:0}
+  h2{font-family:'Inter Display','Inter';font-weight:700;font-size:64px;line-height:1.1;letter-spacing:-1.5px;margin:34px 0 0;color:#fbbf24}
+  .byline{position:absolute;left:150px;bottom:92px;font-size:26px;color:rgba(255,255,255,.72);font-weight:500;letter-spacing:.3px}
+  .byline b{color:#fff;font-weight:700}
+  svg{position:absolute;right:70px;top:150px}
+</style></head>
+<body>
+<div class="grid"></div>
+<div class="bar"></div>
+
+<div class="left">
+  <div class="kicker">Agentic Identity Notes <span class="num">#4</span></div>
+  <h1>You can't revoke<br>what you never<br>wrote down.</h1>
+  <h2>Agent credentials need<br>a lifecycle and an off switch.</h2>
+</div>
+
+<div class="byline"><b>Santosh Prusty</b>&nbsp;&nbsp;·&nbsp;&nbsp;Identity governance for the enterprise and for AI agents</div>
+
+<svg width="820" height="780" viewBox="0 0 820 780" xmlns="http://www.w3.org/2000/svg" font-family="Inter">
+  <defs>
+    <linearGradient id="amb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+    <g id="bot">
+      <rect x="-26" y="-20" width="52" height="40" rx="12" fill="none" stroke="currentColor" stroke-width="4"/>
+      <circle cx="-10" cy="0" r="5" fill="currentColor"/><circle cx="10" cy="0" r="5" fill="currentColor"/>
+      <line x1="0" y1="-20" x2="0" y2="-31" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="0" cy="-34" r="5" fill="currentColor"/>
+    </g>
+    <g id="person">
+      <circle cx="0" cy="-6" r="7" fill="#0f1419"/>
+      <path d="M-12 12 a12 11 0 0 1 24 0 z" fill="#0f1419"/>
+    </g>
+  </defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="rgba(148,163,184,.8)"/></marker>
+  <marker id="arrA" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#fbbf24"/></marker>
+
+  <!-- lifecycle ring -->
+  <circle cx="410" cy="370" r="250" fill="none" stroke="rgba(148,163,184,.22)" stroke-width="2"/>
+  <g fill="none" stroke-width="3.5">
+    <path d="M571 178 A250 250 0 0 1 649 297" stroke="rgba(148,163,184,.75)" marker-end="url(#arr)"/>
+    <path d="M649 443 A250 250 0 0 1 571 562" stroke="rgba(148,163,184,.75)" marker-end="url(#arr)"/>
+    <path d="M249 562 A250 250 0 0 1 171 443" stroke="url(#amb)" marker-end="url(#arrA)"/>
+    <path d="M171 297 A250 250 0 0 1 249 178" stroke="rgba(148,163,184,.75)" stroke-dasharray="8 8" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- stages -->
+  <g font-weight="700" text-anchor="middle">
+    <g transform="translate(410,120)"><rect x="-132" y="-50" width="264" height="100" rx="18" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+      <text y="-6" font-size="28" fill="#fff">Issue</text><text y="26" font-size="19" font-weight="600" fill="#94a3b8">registered agents only</text></g>
+    <g transform="translate(672,370)"><rect x="-132" y="-50" width="264" height="100" rx="18" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+      <text y="-6" font-size="28" fill="#fff">Scope</text><text y="26" font-size="19" font-weight="600" fill="#94a3b8">declared purpose</text></g>
+    <g transform="translate(410,620)"><rect x="-132" y="-50" width="264" height="100" rx="18" fill="#1b2a3a" stroke="rgba(255,255,255,.28)" stroke-width="2"/>
+      <text y="-6" font-size="28" fill="#fff">Rotate</text><text y="26" font-size="19" font-weight="600" fill="#94a3b8">on schedule and events</text></g>
+    <g transform="translate(150,370)"><rect x="-120" y="-56" width="240" height="112" rx="18" fill="#2a2a22" stroke="url(#amb)" stroke-width="4"/>
+      <text y="-6" font-size="30" fill="#fbbf24">Revoke</text><text y="28" font-size="19" font-weight="600" fill="#fde68a">everywhere, verified</text></g>
+  </g>
+
+  <!-- the agent and its credentials -->
+  <g color="#fbbf24" transform="translate(410,370)">
+    <circle r="70" fill="rgba(251,191,36,.10)" stroke="url(#amb)" stroke-width="4"/><use href="#bot" y="6"/>
+  </g>
+  <g stroke="rgba(148,163,184,.6)" stroke-width="2" fill="rgba(255,255,255,.06)">
+    <circle cx="500" cy="300" r="14"/><circle cx="512" cy="440" r="14"/><circle cx="318" cy="448" r="14"/>
+  </g>
+  <g fill="#cbd5e1" font-size="15" font-weight="700" text-anchor="middle">
+    <text x="500" y="305">K</text><text x="512" y="445">T</text><text x="318" y="453">G</text>
+  </g>
+  <text x="410" y="748" text-anchor="middle" font-size="20" font-weight="700" fill="#fbbf24" letter-spacing="2">ONE ACTION. EVERY SYSTEM. PROOF IT WORKED.</text>
+</svg>
+</body></html>
